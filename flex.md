@@ -12,4 +12,4 @@ flex-direction:row-reverse;
 ###Flex随意指定排序
 order:1(指定顺序值)
 
-This is [an example](http://example.com/ "Title") inline link.
+[order](https://developer.mozilla.org/zh-CN/docs/Web/CSS/order "火狐开发者中心")
