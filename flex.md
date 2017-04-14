@@ -15,13 +15,6 @@ flex-direction:row-reverse;
 #### Flex随意指定排序
 order:1(指定顺序值)
 
-[order](https://developer.mozilla.org/zh-CN/docs/Web/CSS/order "火狐开发者中心")
-
-#### Flex均匀分布空间
-justify-content: space-between;
-
-[justify-content](https://developer.mozilla.org/zh-CN/docs/Web/CSS/justify-content "火狐开发者中心")
-
 	/* Numerical value including negative numbers */
 	order: 5;
 	order: -5;
@@ -30,3 +23,13 @@ justify-content: space-between;
 	order: inherit;
 	order: initial;
 	order: unset;
+
+[order](https://developer.mozilla.org/zh-CN/docs/Web/CSS/order "火狐开发者中心")
+
+
+#### Flex均匀分布空间
+justify-content: space-between;
+
+[justify-content](https://developer.mozilla.org/zh-CN/docs/Web/CSS/justify-content "火狐开发者中心")
+
+	
