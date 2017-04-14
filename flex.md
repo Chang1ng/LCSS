@@ -21,3 +21,12 @@ order:1(指定顺序值)
 justify-content: space-between;
 
 [justify-content](https://developer.mozilla.org/zh-CN/docs/Web/CSS/justify-content "火狐开发者中心")
+
+	/* Numerical value including negative numbers */
+	order: 5;
+	order: -5;
+
+	/* Global values */
+	order: inherit;
+	order: initial;
+	order: unset;
