@@ -22,7 +22,7 @@ order:1(指定顺序值)
 	/* Global values */
 	order: inherit;
 	order: initial;
-	order: unset;
+	order: unset
 
 [order](https://developer.mozilla.org/zh-CN/docs/Web/CSS/order "火狐开发者中心")
 
