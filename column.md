@@ -2,6 +2,7 @@
 
 #### column-fill 
 > balance 浏览器根据列的长度进行最小化差异处理
+
 > auto  根据列的高度自适应
 #### column-gap
 > 定义列与列之间的间隔
