@@ -9,7 +9,7 @@ js
     	var wordArray = e.innerHTML.split(" ");
     	while (e.scrollHeight > e.offsetHeight) {
        	 	wordArray.pop();
-       	 	e.innerHTML = wordArray.join(" ") + (etc || 			"...");
+       	 	e.innerHTML = wordArray.join(" ") + (etc || "...");
     	}
 	};
 	
